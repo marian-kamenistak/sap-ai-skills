@@ -1,0 +1,13 @@
+{
+  "name": "sap-abap",
+  "version": "1.0.0",
+  "description": "10 skills for SAP ABAP teams, one per stage of the development cycle: spec-grill, reverse-engineer, implement, test-case, code-review, refactor, cds-rewrite, documentation, transport-release, bugfix.",
+  "author": {
+    "name": "Marian Kamenistak",
+    "url": "https://github.com/marian-kamenistak"
+  },
+  "homepage": "https://www.engineeringleaders.io/academy/sap-skills",
+  "repository": "https://github.com/marian-kamenistak/sap-ai-skills",
+  "license": "MIT",
+  "keywords": ["sap", "abap", "adt", "mcp", "abapgit", "cds", "abap-unit", "atc"]
+}

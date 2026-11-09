@@ -1,0 +1,17 @@
+{
+  "name": "sap-ai-skills",
+  "description": "AI skills for SAP ABAP teams",
+  "owner": {
+    "name": "Marian Kamenistak",
+    "url": "https://github.com/marian-kamenistak"
+  },
+  "plugins": [
+    {
+      "name": "sap-abap",
+      "source": "./",
+      "description": "10 skills for SAP ABAP teams, one per stage of the development cycle, from Jira ticket to transport.",
+      "category": "development",
+      "tags": ["sap", "abap"]
+    }
+  ]
+}
